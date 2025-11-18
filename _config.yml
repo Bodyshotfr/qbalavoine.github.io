@@ -1,3 +1,5 @@
 # _config.yml
 # configuration du site (utilisé dans les templates)
-remote_theme: pages-themes/midnight@v0.2.0
+title: "Ton Site"
+description: "Mon journal / notes / progression"
+theme: jekyll-theme-midnight
