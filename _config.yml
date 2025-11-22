@@ -1,5 +1,16 @@
 # _config.yml
 # configuration du site (utilisé dans les templates)
-title: "Ton Site"
+title: "Serveur mental"
 description: "Mon journal / notes / progression"
 theme: jekyll-theme-midnight
+
+# Navigation (menu)
+nav:
+  - name: "Accueil"
+    link: /
+  - name: "Triathlon"
+    link: /triathlon/
+  - name: "Notes"
+    link: /notes/
+  - name: "Progression"
+    link: /progression/
